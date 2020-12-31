@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on web-application projects :sparkles:
 - 📫 Mail me nishihere19@gmail.com😄
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=nishihere19&count_private=true&show_icons=true&theme=radical)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=dark)
