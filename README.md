@@ -12,9 +12,9 @@
 
 
 <p align="center">
- <a href="https://nishihere19.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/nishi-agrawal-94194514a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:nishihere19@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:nishihere19@gmail.com"><img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="60" height="60"></a>
+<a href=""https://www.linkedin.com/in/nishi-agrawal-94194514a/"><img src="https://media.giphy.com/media/di7V8tnOyYJMaJ9H8v/giphy.gif" width="60" height="60"></a>
+<a href=""https://www.facebook.com/nishi.agrawal.75470316"><img src="https://media.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="60" height="60"></a>
 </p>
 
 ## 🧰 Languages and Tools:
