@@ -19,24 +19,10 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> -->
-</p>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" height="60"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" height="60"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60" height="60"><img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="60" height="60"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" height="60"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" height="60"><img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="60" height="60"><img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="60" height="60"></p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=tokyonight" style="margin:4px"></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=tokyonight" style="margin:4px"></p>
 
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=tokyonight)
