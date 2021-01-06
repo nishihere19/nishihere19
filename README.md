@@ -18,8 +18,8 @@
 
 <p align="center">
  <a href="mailto:nishihere19@gmail.com"><img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="100" height="100"></a>
-<a href=""https://www.linkedin.com/in/nishi-agrawal-94194514a/"><img src="https://media.giphy.com/media/di7V8tnOyYJMaJ9H8v/giphy.gif" width="100" height="100"></a>
-<a href=""https://www.facebook.com/nishi.agrawal.75470316"><img src="https://media.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="100" height="100"></a>
+<a href="https://www.linkedin.com/in/nishi-agrawal-94194514a/"><img src="https://media.giphy.com/media/di7V8tnOyYJMaJ9H8v/giphy.gif" width="100" height="100"></a>
+<a href="https://www.facebook.com/nishi.agrawal.75470316"><img src="https://media.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="100" height="100"></a>
 </p>
 
 ## 🧰 Languages and Tools:
