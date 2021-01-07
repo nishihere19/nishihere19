@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning frameworks like angular, react and beginning my journey in competitive coding :zap:
 - 👯 I’m looking to collaborate on web-application projects :sparkles:
 - :zap: I like contributing to open source.
-- :tada: Currently, I am looking to collaborate on open-source projects learn new stuff on the go!!
+
 
 ## ✉️ Find me on:
 
