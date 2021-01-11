@@ -1,17 +1,16 @@
-# Hola! I am Nishi Agrawal 👋
-
-
-[![Github](https://img.shields.io/github/followers/nishihere19?label=Follow&style=social)](https://github.com/nishihere19)
-
-<p align="center">
-<img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250">
+<p>
+ <img src="https://metrics.lecoq.io/nishihere19?template=classic&followup=1&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Asia%2FCalcutta">
  </p>
  
+ <p>
+<img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250" align="right">
+
+## About me!:tada:
 - 🔭 I’m currently a sophomore at NIT TRICHY!.
 - 🌱 I’m currently learning frameworks like angular, react and beginning my journey in competitive coding :zap:
 - 👯 I’m looking to collaborate on web-application projects :sparkles:
 - :zap: I like contributing to open source.
-
+ </p>
 
 ## ✉️ Find me on:
 
