@@ -1,5 +1,5 @@
 <p>
- <img src="https://metrics.lecoq.io/nishihere19?template=classic&followup=1&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Asia%2FCalcutta">
+ <img src="https://metrics.lecoq.io/nishihere19?template=classic&followup=1&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=true&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta">
  </p>
  
  <p>
