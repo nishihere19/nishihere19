@@ -1,6 +1,5 @@
-<p>
- <img src="https://metrics.lecoq.io/nishihere19?template=classic&followup=1&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=true&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta">
- </p>
+# Hello:green_heart:
+## I am Nishi Agrawal
  
  <p>
 <img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250" align="right">
@@ -16,6 +15,7 @@
 
 
 <p align="center">
+ <img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="100" height="100">
  <a href="mailto:nishihere19@gmail.com"><img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="100" height="100"></a>
 <a href="https://www.linkedin.com/in/nishi-agrawal-94194514a/"><img src="https://media.giphy.com/media/di7V8tnOyYJMaJ9H8v/giphy.gif" width="100" height="100"></a>
 <a href="https://www.facebook.com/nishi.agrawal.75470316"><img src="https://media.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="100" height="100"></a>
