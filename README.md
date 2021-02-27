@@ -26,7 +26,7 @@
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100" height="100"></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=tokyonight" style="margin:4px"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=tokyonight&count_private=true" style="margin:4px"></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=tokyonight" style="margin:4px"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=tokyonight&count_private=true" style="margin:4px"></p>
 
