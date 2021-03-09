@@ -5,10 +5,9 @@
 <img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250" align="right">
 
 ## About me!:tada:
-- 🔭 I’m currently a sophomore at NIT TRICHY!.
+- 🔭 I’m currently a sophomore at NIT Trichy!.
 - 🌱 I’m currently learning frameworks like angular, react and beginning my journey in competitive coding :zap:
 - 👯 I’m looking to collaborate on web-application projects :sparkles:
-- :zap: I like contributing to open source.
  </p>
 
 ## ✉️ Find me on:
