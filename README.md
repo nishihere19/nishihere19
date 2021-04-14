@@ -2,7 +2,7 @@
 ## I am Nishi Agrawal
  
  <p>
-<img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250" align="right">
+<!-- <img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250" align="right"> -->
 
 ## About me!:tada:
 - 🔭 I’m currently a sophomore at NIT Trichy!.
