@@ -15,10 +15,10 @@
 
 
 <p>
- <a href="http://bit.ly/nishihere19/"><img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="80" height="80"></a>
- <a href="mailto:nishihere19@gmail.com"><img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="80" height="80"></a>
-<a href="https://www.linkedin.com/in/nishihere19/"><img src="linkedin.gif" width="80" height="80"></a>
-<a href="https://www.facebook.com/nishi.agrawal.75470316"><img src="https://media.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="80" height="80"></a>
+ <a href="http://bit.ly/nishihere19/"><img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="50" height="50"></a>
+ <a href="mailto:nishihere19@gmail.com"><img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/nishihere19/"><img src="linkedin.gif" width="50" height="50"></a>
+<a href="https://www.facebook.com/nishi.agrawal.75470316"><img src="https://media.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="50" height="50"></a>
 </p>
 
 ## 	:ribbon:Languages and Tools:
@@ -42,8 +42,10 @@
     <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
     </div>
 
+<!--
 ## 	:trophy:Trophies
 [![Nishi's Trophy](https://github-profile-trophy.vercel.app/?username=nishihere19&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=nishihere19&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)
+-->
 
 ## :medal_sports:Stats
 <!--
@@ -53,5 +55,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=tokyonight&count_private=true" style="margin:4px"></p> -->
 [![Nishi's github stats](https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=dracula)
 [![Nishi's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=dracula&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=dracula&count_private=true)
+<!--
 [![Nishi's github activity graph](https://activity-graph.herokuapp.com/graph?username=nishihere19&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=nishihere19&theme=dracula)
+-->
 
