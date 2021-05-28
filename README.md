@@ -7,8 +7,8 @@
 
 ## About me!:tada:
 - 🔭 I’m currently a sophomore at NIT Trichy!.
-- 🌱 I’m currently learning frameworks like angular, react and beginning my journey in competitive coding :zap:
-- 👯 I’m looking to collaborate on web-application projects :sparkles:
+- 🌱 I’m currently beginning my journey in competitive coding :zap:
+- 👯 Reach me out to collaborate on any computer-science projects :sparkles:
  </p>
 
 ## 	:email:Find me on:
@@ -26,20 +26,24 @@
 <p>
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100" height="100"></p> -->
 <div
-    <img src="https://img.shields.io/badge/-C++-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
-    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5"/>
+    <img src="https://img.shields.io/badge/-Cpp-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" />
+    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" />
+    <img src="https://img.shields.io/badge/-Cpp-000000?&style=flat&logo=c%2B%2B&logoColor=0277BD" /> <br>
+    <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5" />
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
     <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
     <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
-    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
+    <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=DEDEDF" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=396E9B" />
     <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" /> <br>
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=gitpod&logoColor=29B4F4" />
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
     <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
+      <img src="https://img.shields.io/badge/-linux-000000?style=flat&logo=linux&logoColor=DEDEDF" />
+    <img src="https://img.shields.io/badge/-firebase-000000?style=flat&logo=firebase&logoColor=FFCA28" />
     </div>
 
 <!--
