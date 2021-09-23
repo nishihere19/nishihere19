@@ -1,4 +1,4 @@
-# Hello, I'm Nishi :green_heart:
+# Hello, I'm Nishi :blue_heart:
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=A+MERN+Stack+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
  
@@ -7,8 +7,9 @@
 
 ## About me!:tada:
 - 🔭 I’m currently a junior at NIT Trichy!.
-- 👯 Reach me out to collaborate on any computer-science projects :sparkles:
-- 🧑‍⚖️ A developer at Delta Force, NIT Trichy.
+- 👯 Reach out to me for collaborating on any computer-science projects :sparkles:
+- 🧑‍⚖️ I'm a developer at Delta Force, NIT Trichy.
+- 🚀 Check out more about me <a href="https://bit.ly/nishihere19">here</a>
  </p>
 
 ## 	:email:Find me on:
@@ -75,7 +76,7 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=tokyonight&count_private=true" style="margin:4px"></p> -->
 [![Nishi's github stats](https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=dracula)
-[![Nishi's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=dracula&count_private=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=dracula&count_private=true)
+[![Nishi's github language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nishihere19&langs_count=10&layout=compact&theme=dracula)
 <!--
 [![Nishi's github activity graph](https://activity-graph.herokuapp.com/graph?username=nishihere19&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=nishihere19&theme=dracula)
 -->
