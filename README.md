@@ -16,7 +16,7 @@
 
 
 <p>
- <a href="http://bit.ly/nishihere19/"><img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="50" height="50"></a>
+<!--  <a href="http://bit.ly/nishihere19/"><img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="50" height="50"></a> -->
  <a href="mailto:nishihere19@gmail.com"><img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/nishihere19/"><img src="linkedin.gif" width="50" height="50"></a>
 <a href="https://www.facebook.com/nishi.agrawal.75470316"><img src="https://media.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="50" height="50"></a>
@@ -27,22 +27,27 @@
 <p>
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/wgFWLRiND4bkyYR4IN/giphy.gif" width="100" height="100"><img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100" height="100"></p> -->
 ![C++](https://img.shields.io/badge/c++%20-%23777BB4.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![Javascript](https://img.shields.io/badge/javascript%20-%23121011.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+    ![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
+    ![Javascript](https://img.shields.io/badge/javascript%20-%23121011.svg?&style=for-the-badge&logo=javascript&ogoColor=white)
+    ![Typescript](https://img.shields.io/badge/typescript%20-%23150458.svg?&style=for-the-badge&logo=typescript&logoColor=white)
     ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-    ![NodeJS](https://img.shields.io/badge/nodejs%20-%ffb400.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-     ![ExpressJS](https://img.shields.io/badge/expressjs%20-%23FF6F00.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![ReactJS](https://img.shields.io/badge/reactjs%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![Svelte](https://img.shields.io/badge/svelte%20-%23777BB4.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-        ![Typescript](https://img.shields.io/badge/typescript%20-%23150458.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![MongoDB](https://img.shields.io/badge/mongodb%20-%2320232a.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![MySQL](https://img.shields.io/badge/mysql%20-%23E34F26.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-        ![Firebase](https://img.shields.io/badge/firebase%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![Webpack](https://img.shields.io/badge/webpack%20-%23150458.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-        ![Linux](https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![Git](https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-    ![VS Code](https://img.shields.io/badge/vscode%20-%23121011.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+    ![NodeJS](https://img.shields.io/badge/nodejs%20-%ffb400.svg?&style=for-the-badge&logo=nodeJs&logoColor=white)
+     ![ExpressJS](https://img.shields.io/badge/expressjs%20-%23FF6F00.svg?&style=for-the-badge&logo=express&logoColor=white)
+     ![Django](https://img.shields.io/badge/django%20-%23121011.svg?&style=for-the-badge&logo=django&logoColor=white)
+    ![ReactJS](https://img.shields.io/badge/reactjs%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white)
+    ![Svelte](https://img.shields.io/badge/svelte%20-%23777BB4.svg?&style=for-the-badge&logo=svelte&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/mongodb%20-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/postgresql%20-%ffb400.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+     ![Firebase](https://img.shields.io/badge/firebase%20-%2300599C.svg?&style=for-the-badge&logo=firebase&logoColor=white)
+    ![Webpack](https://img.shields.io/badge/webpack%20-%23150458.svg?&style=for-the-badge&logo=webpack&logoColor=white)
+        ![Linux](https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white)
+    ![Git](https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
+    ![VS Code](https://img.shields.io/badge/vscode%20-%23121011.svg?&style=for-the-badge&logo=vscode&logoColor=white)
+    ![elastic-search](https://img.shields.io/badge/elasticSearch%20-%ffb400.svg?&style=for-the-badge&logo=elasticSearch&logoColor=white)
+    
+    
 <!-- 
 <div
     <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" />
