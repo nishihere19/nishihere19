@@ -1,6 +1,6 @@
 # Hello, I'm Nishi :blue_heart:
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=A+MERN+Stack+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=A+Full+Stack+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
  
  <p>
 <img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250" align="right">
