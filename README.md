@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250" align="right">
 
 ## About me!:tada:
-- 🔭 I’m currently a junior at NIT Trichy!.
+- 🔭 I’m currently a senior at NIT Trichy!.
 - 👯 Reach out to me for collaborating on any computer-science projects :sparkles:
 - 🧑‍⚖️ I'm a developer at Delta Force, NIT Trichy.
 - 🚀 Check out more about me <a href="https://bit.ly/nishihere19">here</a>
