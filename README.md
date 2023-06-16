@@ -80,7 +80,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=tokyonight" style="margin:4px"></p>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishihere19&theme=tokyonight&count_private=true" style="margin:4px"></p> -->
-![Nishi's github stats](https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=dracula)
+<!-- ![Nishi's github stats](https://github-readme-stats.vercel.app/api?username=nishihere19&show_icons=true&theme=dracula) -->
 ![Nishi's github language stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nishihere19&langs_count=10&layout=compact&theme=dracula)
 <!--
 [![Nishi's github activity graph](https://activity-graph.herokuapp.com/graph?username=nishihere19&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=nishihere19&theme=dracula)
