@@ -5,10 +5,10 @@
  <p>
 <img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250" align="right">
 
-## About me!:tada:
-- 🔭 I’m currently a senior at NIT Trichy!.
+## About me!
+- 🔭 I’m currently a senior associate at Bank of New York!.
 - 👯 Reach out to me for collaborating on any computer-science projects :sparkles:
-- 🧑‍⚖️ I'm a developer at Delta Force, NIT Trichy.
+- 🧑‍⚖️ I'm a 2023 batch graduate from NIT Trichy.
 - 🚀 Check out more about me <a href="https://bit.ly/nishihere19">here</a>
  </p>
 
@@ -19,7 +19,6 @@
 <!--  <a href="http://bit.ly/nishihere19/"><img src="https://media.giphy.com/media/fCFjr9NimeUjN2f1mu/giphy.gif" width="50" height="50"></a> -->
  <a href="mailto:nishihere19@gmail.com"><img src="https://media.giphy.com/media/KxlbRn0HuTW7gZID83/giphy.gif" width="50" height="50"></a>
 <a href="https://www.linkedin.com/in/nishihere19/"><img src="linkedin.gif" width="50" height="50"></a>
-<a href="https://www.facebook.com/nishi.agrawal.75470316"><img src="https://media.giphy.com/media/Rla1ZjObhHhIBsaaF6/giphy.gif" width="50" height="50"></a>
 </p>
 
 ## 	:ribbon:Languages and Tools:
@@ -34,7 +33,7 @@
     ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
     ![NodeJS](https://img.shields.io/badge/nodejs%20-%ffb400.svg?&style=for-the-badge&logo=nodeJs&logoColor=white)
      ![ExpressJS](https://img.shields.io/badge/expressjs%20-%23FF6F00.svg?&style=for-the-badge&logo=express&logoColor=white)
-     ![Django](https://img.shields.io/badge/django%20-%23121011.svg?&style=for-the-badge&logo=django&logoColor=white)
+     ![Java](https://img.shields.io/badge/django%20-%23121011.svg?&style=for-the-badge&logo=java&logoColor=white)
     ![ReactJS](https://img.shields.io/badge/reactjs%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white)
     ![Svelte](https://img.shields.io/badge/svelte%20-%23777BB4.svg?&style=for-the-badge&logo=svelte&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/mongodb%20-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
@@ -45,7 +44,7 @@
         ![Linux](https://img.shields.io/badge/linux%20-%231572B6.svg?&style=for-the-badge&logo=linux&logoColor=white)
     ![Git](https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white)
     ![VS Code](https://img.shields.io/badge/vscode%20-%23121011.svg?&style=for-the-badge&logo=vscode&logoColor=white)
-    ![elastic-search](https://img.shields.io/badge/elasticSearch%20-%ffb400.svg?&style=for-the-badge&logo=elasticSearch&logoColor=white)
+    ![Denodo](https://img.shields.io/badge/elasticSearch%20-%ffb400.svg?&style=for-the-badge&logo=denodo&logoColor=white)
     
     
 <!-- 
