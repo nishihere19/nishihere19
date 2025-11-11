@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/d7UEPE4Y8A3bozhMQ0/giphy.gif" width="250" height="250" align="right">
 
 ## About me!
-- 🔭 I’m currently a senior associate at Bank of New York!.
+- 🔭 I’m currently a senior associate at Bank of New York!
 - 👯 Reach out to me for collaborating on any computer-science projects :sparkles:
 - 🧑‍⚖️ I'm a 2023 batch graduate from NIT Trichy.
 - 🚀 Check out more about me <a href="https://bit.ly/nishihere19">here</a>
